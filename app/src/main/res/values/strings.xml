@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProffMakori</string>
+    <string name="title_activity_layout">LayoutActivity</string>
+    <string name="title_activity_intent">IntentActivity</string>
+    <string name="title_activity_destination">DestinationActivity</string>
+    <string name="title_activity_explore">ExploreActivity</string>
+</resources>
