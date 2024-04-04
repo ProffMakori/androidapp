@@ -7,4 +7,5 @@
     <string name="title_activity_dog">DogActivity</string>
     <string name="title_activity_myform">MyformActivity</string>
     <string name="title_activity_lottie">LottieActivity</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
 </resources>
