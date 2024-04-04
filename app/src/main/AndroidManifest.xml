@@ -13,6 +13,16 @@
         android:theme="@style/Theme.ProffMakori"
         tools:targetApi="31">
         <activity
+            android:name=".LottieActivity"
+            android:exported="false"
+            android:label="@string/title_activity_lottie"
+            android:theme="@style/Theme.ProffMakori" />
+        <activity
+            android:name=".MyformActivity"
+            android:exported="false"
+            android:label="@string/title_activity_myform"
+            android:theme="@style/Theme.ProffMakori" />
+        <activity
             android:name=".DogActivity"
             android:exported="false"
             android:label="@string/title_activity_dog"
